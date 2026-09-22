@@ -1,4 +1,7 @@
 .DS_Store
 
+*.nt
+*.gz
+
 /data/**
 !/data/README.md
